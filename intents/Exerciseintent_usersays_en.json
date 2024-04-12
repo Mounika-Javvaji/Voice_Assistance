@@ -1,0 +1,406 @@
+[
+  {
+    "id": "d30958d4-584c-4173-b308-5924edbfc49a",
+    "data": [
+      {
+        "text": "What is the best exercise for ",
+        "userDefined": false
+      },
+      {
+        "text": "neck",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": " pain? Could you provide some ",
+        "userDefined": false
+      },
+      {
+        "text": "instructions",
+        "meta": "@instructions",
+        "alias": "instructions",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0dda391-3478-43a7-a21d-aa4d07dd3527",
+    "data": [
+      {
+        "text": "Are there any specific stretches for relieving ",
+        "userDefined": false
+      },
+      {
+        "text": "neck",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": " tension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7daeba6-c5fe-48d9-aaad-56b783ac0343",
+    "data": [
+      {
+        "text": "What exercises can I do to alleviate ",
+        "userDefined": false
+      },
+      {
+        "text": "neck",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": " pain, I need ",
+        "userDefined": false
+      },
+      {
+        "text": "instructions",
+        "meta": "@instructions",
+        "alias": "instructions",
+        "userDefined": true
+      },
+      {
+        "text": " on how to engage in a workout.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aefd4676-f8a3-477a-8d14-cbf73b41d2d7",
+    "data": [
+      {
+        "text": "What\u0027s a good exercise routine for ",
+        "userDefined": false
+      },
+      {
+        "text": "chest",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78a9afde-6704-4e03-9486-20f27b7ca8cb",
+    "data": [
+      {
+        "text": "What are some exercises for strengthening my ",
+        "userDefined": false
+      },
+      {
+        "text": "glutes,",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": " please give me ",
+        "userDefined": false
+      },
+      {
+        "text": "instructions",
+        "meta": "@instructions",
+        "alias": "instructions",
+        "userDefined": true
+      },
+      {
+        "text": " to do exercise?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "593c5e90-7244-4c61-89c6-4c6823ac9428",
+    "data": [
+      {
+        "text": "What are some effective exercises for toning my ",
+        "userDefined": false
+      },
+      {
+        "text": "forearms",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b716e76-9d53-467a-8761-9ae622f6159c",
+    "data": [
+      {
+        "text": "Can you recommend exercises to alleviate ",
+        "userDefined": false
+      },
+      {
+        "text": "lower_back",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": " pain and strengthen the core?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15c040d5-2625-4d55-9e66-745d3d92de03",
+    "data": [
+      {
+        "text": "What\u0027s the best way to tone and define my ",
+        "userDefined": false
+      },
+      {
+        "text": "triceps",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e604b63-2c93-4d53-957f-c4864fafb077",
+    "data": [
+      {
+        "text": "What are some effective exercises for strengthening my ",
+        "userDefined": false
+      },
+      {
+        "text": "quadriceps",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49b06a72-41dc-4b78-97a1-ee47282f114e",
+    "data": [
+      {
+        "text": "What\u0027s the best way to build muscle mass in  my ",
+        "userDefined": false
+      },
+      {
+        "text": "quadriceps",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "316c15d9-7123-474d-a29f-7123521c9b6a",
+    "data": [
+      {
+        "text": "How can I increase flexibility in my ",
+        "userDefined": false
+      },
+      {
+        "text": "hamstrings",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2505882-712d-4d00-9b2b-ac0277e9f082",
+    "data": [
+      {
+        "text": "What are some exercises to target my ",
+        "userDefined": false
+      },
+      {
+        "text": "lower_back",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": " muscles, Can you offer ",
+        "userDefined": false
+      },
+      {
+        "text": "instructions",
+        "meta": "@instructions",
+        "alias": "instructions",
+        "userDefined": true
+      },
+      {
+        "text": " for exercising?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1808b540-85e2-40b7-bc2b-0dc135bffad4",
+    "data": [
+      {
+        "text": "How do I develop stronger ",
+        "userDefined": false
+      },
+      {
+        "text": "biceps",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": " without using weights?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05a47e63-f6d0-4da2-9cde-8a3a33adf912",
+    "data": [
+      {
+        "text": "Can you suggest a workout routine to get ",
+        "userDefined": false
+      },
+      {
+        "text": "triceps",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bf7f927-983e-46d4-9af5-7ddac031aa11",
+    "data": [
+      {
+        "text": "What are some effective exercises for toning my ",
+        "userDefined": false
+      },
+      {
+        "text": "glutes",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7547727-a082-4125-b67c-b248cb473e90",
+    "data": [
+      {
+        "text": "how can i strengthen my ",
+        "userDefined": false
+      },
+      {
+        "text": "abdominals",
+        "meta": "@Exer",
+        "alias": "Exer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

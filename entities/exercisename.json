@@ -1,0 +1,9 @@
+{
+  "id": "222e3bb9-304d-4e09-8efc-27e3dbdc2276",
+  "name": "exercisename",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,647 @@
+[
+  {
+    "id": "d20f18ab-f052-4041-9ebf-e0c0bb6e17dd",
+    "data": [
+      {
+        "text": "Tell me the calories burnt during a ",
+        "userDefined": false
+      },
+      {
+        "text": "60",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " min ",
+        "userDefined": false
+      },
+      {
+        "text": "running",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " weighing ",
+        "userDefined": false
+      },
+      {
+        "text": "65",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d655846-cfd0-4958-aa22-aba5885c81f5",
+    "data": [
+      {
+        "text": "What\u0027s the calorie burn for ",
+        "userDefined": false
+      },
+      {
+        "text": "kickboxing",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "40",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " minutes, with a weight of ",
+        "userDefined": false
+      },
+      {
+        "text": "80",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ceac3a69-7982-4419-87a4-f98fd19ee305",
+    "data": [
+      {
+        "text": "Estimate the calorie expenditure for ",
+        "userDefined": false
+      },
+      {
+        "text": "running",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "35",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " minutes, with a weight of ",
+        "userDefined": false
+      },
+      {
+        "text": "75",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39835729-451b-41f5-bb91-b2fec570a364",
+    "data": [
+      {
+        "text": "I want to know the calories burnt for ",
+        "userDefined": false
+      },
+      {
+        "text": "dancing",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "90",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " minutes , weighing ",
+        "userDefined": false
+      },
+      {
+        "text": "62",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edcbb73d-0e0b-4ecb-8c8e-b0cd18aa9d0b",
+    "data": [
+      {
+        "text": "Calculate the calorie burn for ",
+        "userDefined": false
+      },
+      {
+        "text": "45",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " minutes of ",
+        "userDefined": false
+      },
+      {
+        "text": "circuit training",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": ", weighing ",
+        "userDefined": false
+      },
+      {
+        "text": "70",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8aa52688-510e-42a5-afee-6caa13863ef3",
+    "data": [
+      {
+        "text": "How many calories do I burn doing ",
+        "userDefined": false
+      },
+      {
+        "text": "jumping jacks",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " minutes, weighing ",
+        "userDefined": false
+      },
+      {
+        "text": "63",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "857396ce-e769-4ee5-813e-5edb03351e97",
+    "data": [
+      {
+        "text": "Estimate the calorie expenditure for ",
+        "userDefined": false
+      },
+      {
+        "text": "hiking",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "160",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " minutes, with a weight of ",
+        "userDefined": false
+      },
+      {
+        "text": "68",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82669c95-ad37-4160-abcc-d6457f17ea69",
+    "data": [
+      {
+        "text": "Calculate the calories burned during ",
+        "userDefined": false
+      },
+      {
+        "text": "yoga",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "45",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " minutes, weighing ",
+        "userDefined": false
+      },
+      {
+        "text": "55",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6411723e-c0d5-43f2-b273-075b15b7adc8",
+    "data": [
+      {
+        "text": "What\u0027s the calorie burn for playing ",
+        "userDefined": false
+      },
+      {
+        "text": "basketball",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " minutes, with a weight of ",
+        "userDefined": false
+      },
+      {
+        "text": "72",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af69f769-7a1b-471c-8ece-b3ab9c30baa1",
+    "data": [
+      {
+        "text": "Estimate the calories burnt for ",
+        "userDefined": false
+      },
+      {
+        "text": "weightlifting",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "40",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " minutes, weighing ",
+        "userDefined": false
+      },
+      {
+        "text": "85",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54c70bd0-c18f-4faa-b3e6-85ceb74f1311",
+    "data": [
+      {
+        "text": "I want to know the calorie burn for ",
+        "userDefined": false
+      },
+      {
+        "text": "walking",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "60",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " hour, weighing ",
+        "userDefined": false
+      },
+      {
+        "text": "60",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d868129-edcf-481a-a0d3-046eb1b288d7",
+    "data": [
+      {
+        "text": "Calculate calories burned during a ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": "-minute ",
+        "userDefined": false
+      },
+      {
+        "text": "Walking",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " session, with a weight of ",
+        "userDefined": false
+      },
+      {
+        "text": "75",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5153e899-ee02-456e-b97d-2972af7410c9",
+    "data": [
+      {
+        "text": "Estimate the calorie expenditure for ",
+        "userDefined": false
+      },
+      {
+        "text": "swimming",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "45",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " minutes, with a weight of ",
+        "userDefined": false
+      },
+      {
+        "text": "80",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " kilograms.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99922797-da05-4c79-bea5-1e5910661b0f",
+    "data": [
+      {
+        "text": "Calculate the calorie burn for ",
+        "userDefined": false
+      },
+      {
+        "text": "cycling",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " minutes at 10 km/h, weighing ",
+        "userDefined": false
+      },
+      {
+        "text": "70",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a65348ee-d4a8-42d7-846a-37446dc09ed5",
+    "data": [
+      {
+        "text": "How many calories do I burn ",
+        "userDefined": false
+      },
+      {
+        "text": "running",
+        "meta": "@exercisename",
+        "alias": "exercisename",
+        "userDefined": true
+      },
+      {
+        "text": " for an ",
+        "userDefined": false
+      },
+      {
+        "text": "60",
+        "meta": "@time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " hour at a moderate pace, weighing ",
+        "userDefined": false
+      },
+      {
+        "text": "65",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " kilograms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

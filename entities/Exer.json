@@ -1,0 +1,9 @@
+{
+  "id": "d256dfef-7224-4da3-ada2-ee80055b3abc",
+  "name": "Exer",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

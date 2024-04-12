@@ -1,0 +1,39 @@
+{
+  "id": "159bc8b2-fa46-4f60-87cc-4e4caf6d768d",
+  "name": "Thankyouintent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You are welcome",
+            "Happy to help!",
+            "I\u0027m just doing my job!",
+            "You\u0027re very welcome indeed!",
+            "Glad I could assist!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

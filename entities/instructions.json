@@ -1,0 +1,9 @@
+{
+  "id": "450bd9dd-5bb2-4202-98ee-118d96d3d84c",
+  "name": "instructions",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
