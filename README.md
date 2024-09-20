@@ -1,32 +1,34 @@
-**Introduction**
-Welcome to FitFocus, your personalized fitness and wellness assistant designed to revolutionize the way you manage your exercise routines and fitness goals. This README file provides an overview of FitFocus, its features, usage instructions, and user testing results.
+**Introduction**  
+Welcome to *FoodCart Findings*, your personalized culinary and nutrition assistant designed to transform the way you explore food options and manage dietary goals. This README file provides an overview of *FoodCart Findings*, its features, usage instructions, and user testing results.
 
-**Application Overview**
-FitFocus is an application aimed at enhancing individuals' fitness journeys by providing a comprehensive and intuitive platform that simplifies the pursuit of a healthier and fitter lifestyle. With FitFocus, users can seamlessly oversee their fitness-related tasks, including:
-Setting exercise goals
-Monitoring progress
-Scheduling workout sessions
-Accessing fitness services
-Connecting with fitness professionals
-Discovering specific exercises and obtaining detailed instructions
+**Application Overview**  
+*FoodCart Findings* is an application aimed at enhancing individuals' food and nutrition journeys by offering a comprehensive and intuitive platform that simplifies the pursuit of a healthier and more mindful eating lifestyle. With *FoodCart Findings*, users can easily manage food-related tasks, including:
+- Setting dietary goals
+- Monitoring nutrition intake
+- Discovering new recipes
+- Scheduling meal plans
+- Accessing nutritional advice and services
+- Connecting with culinary professionals and dietitians
+- Finding specific dishes and receiving detailed preparation instructions
 
-**Interaction Model**
-FitFocus provides a seamless and user-friendly chat experience, interacting with users in a natural and supportive manner. It offers various intents, including:
-ExerciseIntent: Discover specific exercises by type and obtain detailed instructions.
-Difficulty_Level: Specify fitness proficiency levels (beginner, intermediate, expert) for personalized exercise routines.
-CalorieBurnCalculation: Compute calories burned for specified exercises based on user-input parameters.
+**Interaction Model**  
+*FoodCart Findings* offers a seamless, user-friendly chat experience that engages with users in a natural and supportive manner. It provides various intents, including:
+- **RecipeIntent**: Discover specific recipes based on ingredients or dietary preferences and receive detailed instructions.
+- **Nutrition_Level**: Customize meal recommendations based on dietary needs (vegan, keto, high-protein, etc.) for personalized nutrition advice.
+- **CalorieIntakeCalculation**: Calculate caloric intake based on meal components and user-specific dietary parameters.
 
-**Fulfillment Logic**
-FitFocus utilizes API requests and internal logic to fulfill user intents:
-ExerciseIntent: Fetches exercise data from an API based on user input and constructs response messages with exercise suggestions and instructions.
-Difficulty_Level: Retrieves exercise names based on the specified difficulty level and generates appropriate responses.
-CalorieBurnCalculation: Calculates calorie burn for specified exercises using MET values and user parameters.
+**Fulfillment Logic**  
+*FoodCart Findings* leverages API requests and internal logic to fulfill user intents:
+- **RecipeIntent**: Fetches recipe data from a third-party API based on user input, providing step-by-step instructions and culinary suggestions.
+- **Nutrition_Level**: Suggests meals or recipes based on the user's dietary preferences, ensuring that the recommendations align with their nutrition goals.
+- **CalorieIntakeCalculation**: Calculates caloric intake for meals using nutritional data and user-specific inputs such as weight, age, and dietary restrictions.
 
-**User Testing**
-FitFocus underwent user testing, including usability testing, Likert scale testing, and open-ended questions. Here are some key findings:
-Usability Testing: Users successfully completed tasks with varying complexity, indicating the effectiveness of the application.
-Likert Scale Testing: Users expressed high satisfaction with FitFocus's understanding of their needs, variety of exercises, progress tracking, and overall experience.
-Open-ended Questions: Users provided valuable feedback, suggesting enhancements such as insights on exercise contributions to fitness goals and clearer instructions for optimizing workouts.
+**User Testing**  
+*FoodCart Findings* underwent a thorough user testing phase, which included usability testing, Likert scale testing, and open-ended feedback collection. Key results include:
+- **Usability Testing**: Users successfully navigated the application, completed tasks of varying complexity, and reported ease of use.
+- **Likert Scale Testing**: Users expressed high satisfaction with *FoodCart Findings*' understanding of their dietary needs, meal variety, nutritional tracking, and overall user experience.
+- **Open-ended Feedback**: Users provided insightful feedback, requesting additional features such as personalized meal plans, ingredient alternatives, and clearer nutrition facts for each dish.
 
-**Conclusion**
-FitFocus is a promising tool for individuals seeking to optimize their fitness journeys. With its intuitive interface, personalized recommendations, and comprehensive features, FitFocus aims to empower users in achieving their fitness goals effectively and efficiently.
+**Conclusion**  
+*FoodCart Findings* is a promising tool for individuals looking to improve their eating habits and better manage their dietary needs. With its intuitive interface, personalized meal recommendations, and comprehensive nutritional features, *FoodCart Findings* is designed to empower users to achieve their health and wellness goals effectively.
+
